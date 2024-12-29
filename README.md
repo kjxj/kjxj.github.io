@@ -1,2 +1,2 @@
-# kjxj.github.io
+# blog
 blog
