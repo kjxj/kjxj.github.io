@@ -26,6 +26,7 @@ body {
 .container .left p a:hover{color:#007be3;}
 .container .left p strong{}
 .container .left .video h2{font-size:24px; color:#333; font-weight:bold; margin-bottom:10px; margin-top:30px;}
+.container .left .video .play{background: url(play.gif) no-repeat 100%; background-size: 100%; color:rgb(51 51 51 / 0%); vertical-align:middle; font-size:20px;}
 .copy_layout{position:relative;}
 .copy-text{display:none; text-align:right; cursor:pointer;font-size:14px;color:#CCC; padding-right:3px; position:absolute; right:0; top:0;}
 .copy-text:hover{color:#FFF;}
