@@ -8,7 +8,7 @@
 .container{width:100%; max-width:1920px; margin:1.5em auto; height:100%; overflow:hidden;}
 .container .left{width:100%; float:left; background:#FFF; box-shadow: 0 0 14px rgba(0,0,0,.04);}
 .container .left .video{width:92%; margin:0 auto;}
-.container .left p{font-size:2em; font-weight:normal; margin-bottom:1.5em;}
+.container .left p{font-size:2em; font-weight:normal; margin-bottom:1.5em; line-height:2;}
 .container .left p a{font-size:1em;text-decoration:underline; display:inline-block; color:#1068ab;}
 .container .left p strong{}
 .container .left h1{font-size:2.5em; color:#333; padding:0.5em 0 1em 0px; width:92%; margin:0 auto 0.8em; line-height:1.3;}
