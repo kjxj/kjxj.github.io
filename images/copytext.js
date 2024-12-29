@@ -114,3 +114,16 @@ document.getElementById('copyButton9').addEventListener('click', function() {
     selection.removeAllRanges();
     //alert("文本已复制到剪贴板");
 });
+
+//复制9代码
+document.getElementById('copyButton10').addEventListener('click', function() {
+    var copyText = document.getElementById("copyText10");
+    var selection = window.getSelection();
+    var range = document.createRange();
+    range.selectNodeContents(copyText);
+    selection.removeAllRanges();
+    selection.addRange(range);
+    document.execCommand('copy');
+    selection.removeAllRanges();
+    //alert("文本已复制到剪贴板");
+});
