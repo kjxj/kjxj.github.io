@@ -21,7 +21,7 @@ body {
 .container .left .video{width:90%; margin:0 auto;}
 .container .left iframe{width:100%; min-height:506px; border-radius:10px;}
 .container .left .video img{max-width:100%;}
-.container .left p{font-size:18px; font-weight: inherit; margin:0 0 30px 0; color:#333;}
+.container .left p{font-size:18px; font-weight: inherit; margin:0 0 30px 0; color:#444; line-height:1.8;}
 .container .left p a{text-decoration:underline; color:#1068ab}
 .container .left p a:hover{color:#007be3;}
 .container .left p strong{}
